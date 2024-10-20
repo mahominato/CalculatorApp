@@ -24,15 +24,17 @@ To run the application, you will need:
    3. Click the equals button (=) to get the result.
    4. The result will be displayed on the screen.
 ## Main Interface
-![img.png](img.png)
+![img](https://github.com/user-attachments/assets/20ba20a4-9537-4990-afaf-02398bd076a9)
+
 ## Example Input/Result
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
+![img_1](https://github.com/user-attachments/assets/e6abac33-8f3b-4880-bf85-6381688f0255)
+
+![img_2](https://github.com/user-attachments/assets/6e405252-44f1-48ac-9701-10f8e2fca0b4)
+![img_3](https://github.com/user-attachments/assets/9d63a106-1569-40c6-9356-56ef2d369a62)
 ## Division By Zero
-![img_4.png](img_4.png)
-![img_5.png](img_5.png)
-![img_6.png](img_6.png)
+![img_4](https://github.com/user-attachments/assets/58a7f951-ab0a-44e5-9a08-668d64d1e43c)
+![img_5](https://github.com/user-attachments/assets/6f512cf2-a743-418a-859d-ea962922cfaf)
+![img_6](https://github.com/user-attachments/assets/3f2ebc5e-127d-461a-85e6-68c04aa54430)
 
 
 
